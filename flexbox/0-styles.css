@@ -1,7 +1,14 @@
+
+
+
 container{
     display:flex;
 }
 
 row{
     display: flex;
+}
+
+[class*='col-'] {
+    float: none !important;
 }
