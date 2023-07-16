@@ -9,6 +9,8 @@ body{
 main{
     flex-direction: row;
     flex: auto;
+    background-color: blueviolet;
+    color: aquamarine;
 }
 
 article{
@@ -19,4 +21,21 @@ article{
 aside{
     flex: 1;
     overflow-y: auto;
+    background-color: blue;
+    color: beige;
+}
+table{
+    border-collapse: collapse;
+    max-width: 20px;
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 4px;
+    text-align: left;
+}
+
+header{
+    background-color: deeppink;
+    color: navy;
 }
