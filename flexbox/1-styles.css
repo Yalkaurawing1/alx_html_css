@@ -1,14 +1,14 @@
 
 
 
-container{
+.container{
     display:flex;
 }
 
-row{
+.row{
     display: flex;
 }
 
-[class*='col-'] {
+.col-1-3{
     float: none !important;
 }

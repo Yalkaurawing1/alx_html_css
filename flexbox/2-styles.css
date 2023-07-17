@@ -9,6 +9,10 @@
     display: flex;
 }
 
+.col-1-3{
+    float: none !important;
+}
+
 
 
 /* Section Latest news ============================= */
