@@ -9,7 +9,7 @@
     display: flex;
 }
 
-.col-1-3{
+*.col-{
     float: left;
 }
 
@@ -18,7 +18,7 @@
 /* Section Latest news ============================= */
 
 .section-Latest-news .row {
-         flex-direction: row-reverse;
+    flex-direction: row-reverse;
 } 
 
 
