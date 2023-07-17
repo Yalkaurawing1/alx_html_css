@@ -13,7 +13,8 @@ row{
 
 /* Section Latest news ============================= */
 
-section .section-latest-news .row {
+/*** 4. CARD ***/
+.section-Latest-news .row {
     flex-direction: row-reverse;
 } 
 
