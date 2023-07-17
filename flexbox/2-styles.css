@@ -1,0 +1,20 @@
+
+/* Grid */
+
+container{
+    display:flex;
+}
+
+row{
+    display: flex;
+}
+
+
+
+/* Section Latest news =============================== */
+
+section .section-latest-news .row {
+    flex-direction: row-reverse;
+} 
+
+
