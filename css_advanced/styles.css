@@ -1,0 +1,115 @@
+/* My css_advanced project */
+
+
+
+
+
+.header{
+    /*background-color: blue;*/
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    
+}
+
+a{
+    color: white;
+    padding-right: 10px;
+    align-items: center;
+    text-decoration: none;
+    padding-top: 10px;
+}
+
+.section{
+    align-content: center;
+    color: white;
+    list-style: none; 
+    margin-top: 100px;
+    justify-items: center;
+}   
+
+.smiles{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    padding-top: 50px;
+    justify-content: center;
+    padding-bottom: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+
+
+body{
+    background-image: url("images/Object.png");
+    background-repeat: no-repeat;
+    margin-bottom: 0;   
+    padding-top: 0;
+}
+
+.hero{
+    text-align: center;
+    margin-top: 5px;
+    gap: 20px;
+}
+
+
+button{
+    background-color: rgb(218, 67, 218);
+    color: white;
+    border-radius: 50px;
+    height: 50px;
+    margin-top: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-color: transparent;
+    align-content: center;
+    margin-left: 570px;
+
+}
+
+
+
+#first-section h1{
+    font-size: 100px;
+    justify-self: center;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+/*#quote-section{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(218, 67, 218);
+    color: white;
+    align-items: center;
+    /*justify-content: center;
+    margin: 0;
+    gap: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    padding-left: 200px;
+    padding-right: 50px;
+    margin-left: 0%;
+}
+*/
+
+.section h6 a{
+    color: rgb(218, 67, 218);
+
+}
+
+.section h6{
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 200px;
+}
