@@ -84,13 +84,13 @@ button{
     margin-bottom: 0;
 }
 
-/*#quote-section{
+#quote-section{
     display: flex;
     flex-direction: row;
     background-color: rgb(218, 67, 218);
     color: white;
     align-items: center;
-    /*justify-content: center;
+    /*justify-content: center;*/
     margin: 0;
     gap: 10px;
     padding-top: 20px;
@@ -100,7 +100,7 @@ button{
     padding-right: 50px;
     margin-left: 0%;
 }
-*/
+
 
 .section h6 a{
     color: rgb(218, 67, 218);
