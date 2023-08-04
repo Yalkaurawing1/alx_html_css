@@ -241,3 +241,44 @@ button{
 .m-smile p{
     color: rgb(190, 188, 188);
 }
+
+/* F.A.Q SECTION ========================================*/
+
+.faq-section{
+    font-family: source san pro;
+    
+}
+
+
+#faq-header{
+    font-size: 30px;
+    text-align: center;
+    font-weight: lighter;
+}
+
+.faq-container-l{
+    display: flex;
+    flex-direction: row;
+    padding-right: 200px;
+    padding-left: 200px;
+    gap: 100px;
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+.faq-container-ll{
+    display: flex;
+    flex-direction: row;
+    padding-right: 200px;
+    padding-left: 200px;
+    gap: 100px;
+    font-weight: lighter;
+    font-size: 15px;
+    
+}
+
+.faq-p{
+    color: gray;
+    padding-right: 200px;
+    padding-left: 200pxS;
+}
